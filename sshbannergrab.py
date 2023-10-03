@@ -1,5 +1,3 @@
-#its not working
-
 import socket
 
 #need modifications 
